@@ -1,6 +1,11 @@
 # frozen_string_literal: true
 
-require "cashier"
+require 'bigdecimal'
+require_relative '../lib/cashier'
+require_relative '../lib/cashier/rules/pricing'
+require_relative '../lib/cashier/helpers/parse_decimals'
+require_relative '../lib/cashier/basket'
+require_relative '../lib/cashier/product'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
