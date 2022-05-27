@@ -1,3 +1,6 @@
 --format documentation
+--format Fuubar
+--profile
 --color
+--tag ~performance
 --require spec_helper
