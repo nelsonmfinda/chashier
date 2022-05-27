@@ -1,6 +1,6 @@
 # Cashier
 
-A cashier function that adds products to a cart and displays the total price.
+A cashier function that adds products to a cart and displays the total price. Read more about this [project here](https://github.com/nelsonmfinda/chashier/blob/main/challenge.md)
 
 ## Getting Started
 
